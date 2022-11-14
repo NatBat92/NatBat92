@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning Full Stack Development with the Code Institute and loving every second
 
-- 💞️ I’m looking to collaborate on ...
-
 - 📫 How to reach me 
 - you can reach me via email: natalie.neale1992:outlook.com
 - or via my linkedin: https://www.linkedin.com/in/natalie-neale-072b0321b/
